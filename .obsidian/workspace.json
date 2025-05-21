@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c32b5cdac30ce7fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2f54c63c12fbb9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3ab86971f786267",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NewProyect/01_Arquitectura/Conceptos/GitHub.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "213d4b8255031ca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "677baec519f8fa69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3869c51a6160f751",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "80849d707e323fde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "1352929bb40c2eb0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "857d4b8d70f287fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffe115006a1e81a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d38cf8646c4bcbcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "d7999148a4d6301d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "77c87aecb2e0d1ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "33e510fc8d3e1b39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e3ab86971f786267",
+  "lastOpenFiles": [
+    "NewProyect/01_Arquitectura/Conceptos/Angular.md",
+    "NewProyect/01_Arquitectura/Conceptos/API.md",
+    "NewProyect/01_Arquitectura/Conceptos/Docker.md",
+    "NewProyect/01_Arquitectura/Conceptos/GitHub.md",
+    "NewProyect/01_Arquitectura/Conceptos/Material.md",
+    "NewProyect/01_Arquitectura/Conceptos/NestJS.md",
+    "NewProyect/01_Arquitectura/Conceptos/Node.md",
+    "NewProyect/01_Arquitectura/Conceptos/ORM.md",
+    "NewProyect/01_Arquitectura/Conceptos/Passport.md",
+    "NewProyect/01_Arquitectura/Conceptos/PgAdmin.md",
+    "NewProyect/01_Arquitectura/Conceptos/PostgreSQL.md",
+    "NewProyect/01_Arquitectura/Conceptos/Prisma.md",
+    "NewProyect/01_Arquitectura/Conceptos/TypeScript.md",
+    "NewProyect/01_Arquitectura/Estructura_del_proyecto.md",
+    "NewProyect/00_Introducción/Sistema de Gestión para Librería.md",
+    "NewProyect/06_Anexos/Glosario.md",
+    "NewProyect/03_Datos/Esquema.md",
+    "NewProyect/03_Datos/Estructura de datos.md",
+    "NewProyect/00_Introducción/Objetivos.md",
+    "NewProyect/00_Introducción/Alcance.md",
+    "NewProyect/04_Manual_Uso/Instalación.md",
+    "NewProyect/04_Manual_Uso/Configuración.md",
+    "Sin título.md",
+    "NewProyect/05_Testing/Pruebas.md",
+    "NewProyect/05_Testing/Casos_de_uso.md",
+    "NewProyect/05_Testing",
+    "NewProyect/06_Anexos/Recursos.md",
+    "NewProyect/06_Anexos",
+    "NewProyect/00_Introducción",
+    "NewProyect/03_Datos",
+    "NewProyect/01_Arquitectura/Conceptos",
+    "NewProyect/01_Arquitectura",
+    "NewProyect/04_Manual_Uso",
+    "NewProyect",
+    "NewProyect-20250519T015403Z-1-001.zip"
+  ]
+}
