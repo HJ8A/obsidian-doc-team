@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NewProyect/01_Arquitectura/Conceptos/GitHub.md",
+                "file": "NewProyect/01_Arquitectura/Conceptos/Docker.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub"
+              "title": "Docker"
             }
           }
         ]
@@ -172,10 +172,10 @@
   },
   "active": "e3ab86971f786267",
   "lastOpenFiles": [
-    "NewProyect/01_Arquitectura/Conceptos/Angular.md",
     "NewProyect/01_Arquitectura/Conceptos/API.md",
-    "NewProyect/01_Arquitectura/Conceptos/Docker.md",
+    "NewProyect/01_Arquitectura/Conceptos/Angular.md",
     "NewProyect/01_Arquitectura/Conceptos/GitHub.md",
+    "NewProyect/01_Arquitectura/Conceptos/Docker.md",
     "NewProyect/01_Arquitectura/Conceptos/Material.md",
     "NewProyect/01_Arquitectura/Conceptos/NestJS.md",
     "NewProyect/01_Arquitectura/Conceptos/Node.md",
