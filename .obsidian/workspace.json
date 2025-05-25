@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROBANDO GIT.md",
+                "file": "CAMBIE EL NOMBRE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROBANDO GIT"
+              "title": "CAMBIE EL NOMBRE"
             }
           }
         ],
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "223b55af165efd5a",
+  "active": "3869c51a6160f751",
   "lastOpenFiles": [
     "README.md",
-    "PROBANDO GIT.md",
+    "CAMBIE EL NOMBRE.md",
     "NewProyect/01_Arquitectura/Conceptos/GitHub.md",
     "NewProyect/01_Arquitectura/Conceptos/Material.md",
     "NewProyect/01_Arquitectura/Conceptos/Passport.md",
