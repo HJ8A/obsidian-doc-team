@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "NewProyect/01_Arquitectura/Conceptos/Docker.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "223b55af165efd5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CAMBIE EL NOMBRE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CAMBIE EL NOMBRE"
+              "title": "Docker"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,24 +170,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3869c51a6160f751",
+  "active": "e3ab86971f786267",
   "lastOpenFiles": [
-    "README.md",
-    "CAMBIE EL NOMBRE.md",
+    "NewProyect/01_Arquitectura/Conceptos/API.md",
+    "NewProyect/01_Arquitectura/Conceptos/Angular.md",
     "NewProyect/01_Arquitectura/Conceptos/GitHub.md",
+    "NewProyect/01_Arquitectura/Conceptos/Docker.md",
     "NewProyect/01_Arquitectura/Conceptos/Material.md",
+    "NewProyect/01_Arquitectura/Conceptos/NestJS.md",
+    "NewProyect/01_Arquitectura/Conceptos/Node.md",
+    "NewProyect/01_Arquitectura/Conceptos/ORM.md",
     "NewProyect/01_Arquitectura/Conceptos/Passport.md",
     "NewProyect/01_Arquitectura/Conceptos/PgAdmin.md",
     "NewProyect/01_Arquitectura/Conceptos/PostgreSQL.md",
     "NewProyect/01_Arquitectura/Conceptos/Prisma.md",
-    "NewProyect/01_Arquitectura/Conceptos/Git.md",
-    "NewProyect/01_Arquitectura/Conceptos/NestJS.md",
-    "NewProyect/01_Arquitectura/Conceptos/ORM.md",
-    "NewProyect/01_Arquitectura/Conceptos/Docker.md",
-    "NewProyect/01_Arquitectura/Conceptos/API.md",
-    "NewProyect/01_Arquitectura/Conceptos/Angular.md",
-    "NewProyect/05_Testing/Casos de uso.md",
-    "NewProyect/01_Arquitectura/Conceptos/Node.md",
     "NewProyect/01_Arquitectura/Conceptos/TypeScript.md",
     "NewProyect/01_Arquitectura/Estructura_del_proyecto.md",
     "NewProyect/00_Introducción/Sistema de Gestión para Librería.md",
@@ -213,7 +194,11 @@
     "NewProyect/00_Introducción/Alcance.md",
     "NewProyect/04_Manual_Uso/Instalación.md",
     "NewProyect/04_Manual_Uso/Configuración.md",
+    "Sin título.md",
+    "NewProyect/05_Testing/Pruebas.md",
+    "NewProyect/05_Testing/Casos_de_uso.md",
     "NewProyect/05_Testing",
+    "NewProyect/06_Anexos/Recursos.md",
     "NewProyect/06_Anexos",
     "NewProyect/00_Introducción",
     "NewProyect/03_Datos",
