@@ -42,13 +42,13 @@ await Usuario.create({ nombre: "Ana", email: "ana@email.com" });
 
 ## 🧰 ORMs populares por lenguaje
 
-|Lenguaje|ORMs populares|
-|---|---|
-|Node.js|Sequelize, TypeORM, Prisma, MikroORM|
-|Python|SQLAlchemy, Django ORM|
-|PHP|Eloquent (Laravel), Doctrine|
-|Java|Hibernate, JPA|
-|Ruby|ActiveRecord (Rails)|
+| Lenguaje | ORMs populares                       |
+| -------- | ------------------------------------ |
+| Node.js  | Sequelize, TypeORM, Prisma, MikroORM |
+| Python   | SQLAlchemy, Django ORM               |
+| PHP      | Eloquent (Laravel), Doctrine         |
+| Java     | Hibernate, JPA                       |
+| Ruby     | ActiveRecord (Rails)                 |
 
 ---
 
