@@ -86,45 +86,64 @@ GitHub se integra con herramientas como Docker, GitHub Actions, Netlify, Vercel,
 - Crear tu sitio web gratis con **GitHub Pages**.
     
 - Usar plantillas, proyectos y tableros estilo Kanban.
-=======
-## **GitHub - Comandos Básicos de Git**
-1. Crear una rama nueva después de actualizar el proyecto
+---
 
-2. Hacer merge ( Fusionar los cambios de tu rama local a la rama main )
--Pre requisitos antes de hacer merge
-Guardar los cambios en la rama local
+## **1. Guía para actualizar el proyecto en mi local**
+## **2. Guía para fusionar mis cambios**
+Una vez terminas de hacer tus modificaciones o mejoras y quieres aplicar tus cambios al proyecto. Seguir estos pasos:
+### *0. (Pre requisitos antes de hacer merge)*
+1. 
 ```bash
 git add .
 ```
->Prepara todos los archivos de la carpeta
+>Prepara todos los archivos modificados de tu proyecto en local.
 
-
+2. 
 ```bash
 git commit -m "Estos son mis cambios"
 ```
->Guarda los cambios de la rama 
+>Guarda los cambios de su rama local.
 
-#### 2. Cambie a la rama `main`
+3. 
 ```bash
 git checkout main
 ```
->Cambiarse a la rama local main
+>Cambiarse a la rama local main.
 
-#### 3. Actualice la rama `main` con la versión remota
+4. 
 ```bash
 git pull origin main
 ```
->Tener la rama actualizada para evitar conflictos
+>Actualizar la rama local con la rama remota main para evitar conflictos.
 
-#### 3. Fusione su rama local con `main`
+### 1. Combine sus cambios locales con la rama remota main.** 
+1. 
+***(reemplazar rama-local por el nombre de su rama)***
 ```bash
-git pull origin main
+git merge rama-local
 ```
->Manda los cambios guardados de una rama  a la rama main
+>Fusionar los cambios de su rama local con la rama main local.
 
-#### 3. Suba la rama `main` fusionada al repositorio remoto
+### *2.  Resolver conflictos. (opcional).*
+1. 
+```bash
+git checkout rama-local
+git status
+```
+>Moverse a su rama local y ver los conflictos.
+
+2. Resolver los conflictos manualmente.
+3. Guardar los conflictos resueltos.
+```bash
+git add .
+git commit -m "Conflictos resueltos"
+```
+>.Guardar los conflictos resueltos en un commit.
+
+### 3. Volver al paso 2 en caso haya conflictos. (opcional)
+### 4. Suba la rama main fusionada (local) al repositorio remoto.
+1. 
 ```bash
 git push origin main
 ```
->La rama fusionada en local se sube a la rama remota main
->>>>>>> rama-jisus
+>Los cambios locales se suben al repositorio remoto en la rama main
