@@ -29,6 +29,7 @@ Puedes crear tareas, reportar bugs, revisar cambios de otros (pull requests) y m
 GitHub se integra con herramientas como Docker, GitHub Actions, Netlify, Vercel, etc., para desplegar apps automáticamente.
 
 ---
+<<<<<<< HEAD
 
 ## 🧩 Elementos clave de GitHub
 
@@ -85,3 +86,45 @@ GitHub se integra con herramientas como Docker, GitHub Actions, Netlify, Vercel,
 - Crear tu sitio web gratis con **GitHub Pages**.
     
 - Usar plantillas, proyectos y tableros estilo Kanban.
+=======
+## **GitHub - Comandos Básicos de Git**
+1. Crear una rama nueva después de actualizar el proyecto
+
+2. Hacer merge ( Fusionar los cambios de tu rama local a la rama main )
+-Pre requisitos antes de hacer merge
+Guardar los cambios en la rama local
+```bash
+git add .
+```
+>Prepara todos los archivos de la carpeta
+
+
+```bash
+git commit -m "Estos son mis cambios"
+```
+>Guarda los cambios de la rama 
+
+#### 2. Cambie a la rama `main`
+```bash
+git checkout main
+```
+>Cambiarse a la rama local main
+
+#### 3. Actualice la rama `main` con la versión remota
+```bash
+git pull origin main
+```
+>Tener la rama actualizada para evitar conflictos
+
+#### 3. Fusione su rama local con `main`
+```bash
+git pull origin main
+```
+>Manda los cambios guardados de una rama  a la rama main
+
+#### 3. Suba la rama `main` fusionada al repositorio remoto
+```bash
+git push origin main
+```
+>La rama fusionada en local se sube a la rama remota main
+>>>>>>> rama-jisus
