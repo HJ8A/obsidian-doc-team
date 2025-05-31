@@ -87,11 +87,10 @@ GitHub se integra con herramientas como Docker, GitHub Actions, Netlify, Vercel,
     
 - Usar plantillas, proyectos y tableros estilo Kanban.
 ---
-
-## **1. Guía para actualizar el proyecto en mi local**
+## **1. Actualizar el proyecto en local**
 ## **2. Guía para fusionar mis cambios**
 Una vez terminas de hacer tus modificaciones o mejoras y quieres aplicar tus cambios al proyecto. Seguir estos pasos:
-### *0. (Pre requisitos antes de hacer merge)*
+#### *2-0. Pre requisitos antes de hacer merge (tener el main actualizado*
 1. 
 ```bash
 git add .
@@ -116,21 +115,21 @@ git pull origin main
 ```
 >Actualizar la rama local con la rama remota main para evitar conflictos.
 
-### 1. Combine sus cambios locales con la rama remota main.** 
-1. 
+#### **2-1. Combine sus cambios locales con la rama remota main** 
 ***(reemplazar rama-local por el nombre de su rama)***
+1. 
 ```bash
 git merge rama-local
 ```
 >Fusionar los cambios de su rama local con la rama main local.
 
-### *2.  Resolver conflictos. (opcional).*
+### *2-2.  Resolver conflictos (opcional).*
 1. 
 ```bash
 git checkout rama-local
 git status
 ```
->Moverse a su rama local y ver los conflictos.
+>Moverse a la rama local y ver los conflictos.
 
 2. Resolver los conflictos manualmente.
 3. Guardar los conflictos resueltos.
@@ -140,10 +139,10 @@ git commit -m "Conflictos resueltos"
 ```
 >.Guardar los conflictos resueltos en un commit.
 
-### 3. Volver al paso 2 en caso haya conflictos. (opcional)
-### 4. Suba la rama main fusionada (local) al repositorio remoto.
+### 2-3. Suba la rama main fusionada al repositorio remoto
 1. 
 ```bash
 git push origin main
 ```
->Los cambios locales se suben al repositorio remoto en la rama main
+>La rama fusionada en local se sube a la rama remota main
+
